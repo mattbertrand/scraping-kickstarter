@@ -128,7 +128,7 @@ In pry, type in:
 kickstarter.css("li.project.grid_4").first
 ```
 
-This will select the first `li` with the `project` and `grid_4` classes just so
+This will select the first `li` with the `project` an `grid_4` classes just so
 that we can make sure we've chosen our selectors correctly.
 
 And we have! (If you don't see any output, or see an empty array, make sure
